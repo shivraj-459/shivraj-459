@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shivrajpunjare459@gmail.com**
 
--    Here is my portfolio **https://shivraj-punjare-portfolio1.netlify.app/#**
+- 📁  Here is my portfolio: **https://shivraj-punjare-portfolio1.netlify.app/#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
