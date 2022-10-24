@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivraj-459&label=Profile%20views&color=0e75b6&style=flat" alt="shivraj-459" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 📫 How to reach me **shivrajpunjare459@gmail.com**
 
 - 👨‍💻 All of my projects are available at: **https://shivraj-punjare-portfolio.netlify.app/**
