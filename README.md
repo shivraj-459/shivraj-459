@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shivrajpunjare459@gmail.com**
 
-- 👨‍💻 All of my projects are available at: **https://shivrajpunjareportfolio.netlify.app/**
+- 👨‍💻 All of my projects are available at: **https://shivraj-punjare-portfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
