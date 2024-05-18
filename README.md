@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=2500&h=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2dyYW1tZXJ8ZW58MHx8MHx8fDA%3D)
+![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=2500&h=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2dyYW1tZXJ8ZW58MHx8MHx8fDA%3D)
 <h1 align="center">Hi 👋, I'm shivraj punjare</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
